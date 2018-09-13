@@ -41,3 +41,6 @@ I wrote an answer on quora.com, [here](https://www.quora.com/How-do-you-memorize
 July 3, 2018
 I practiced 8 hard level algorithms in the Canada day long weekend, 2018. [Here](http://juliachencoding.blogspot.com/2018/07/hard-level-algorithms-my-canada-day.html) is one of blogs:
 
+July 12 2018
+
+I made the change and started to work Leetcode easy level algorithms. My goal is to complete all 190 easy level algorithms left. Also I like to build a good habit to code everyday. I like to start from easy level algorithms, and then get experience how to solve problems. 
