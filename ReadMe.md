@@ -43,5 +43,7 @@ I practiced 8 hard level algorithms in the Canada day long weekend, 2018. [Here]
 
 July 12 2018
 
-I made the change and started to work Leetcode easy level algorithms. My goal is to complete all 190 easy level algorithms left. Also I like to build a good habit to code everyday. I like to start from easy level algorithms, and then get experience how to solve problems.
+I made the change and started to work Leetcode easy level algorithms instead. My goal is to complete all 190 easy level algorithms left. Also I like to build a good habit to code everyday. I like to start from easy level algorithms, and then get experience how to solve problems.
 The blog is called [what is the best way to learn algorithms?](http://juliachencoding.blogspot.com/2018/07/what-is-best-way-to-learn-algorithm.html).
+
+Compared to a hard level algorithm, it is better for me to work on something simple and small. I like to build a good habit to code every day. 
