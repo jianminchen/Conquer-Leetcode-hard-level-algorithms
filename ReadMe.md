@@ -1,3 +1,7 @@
+**Hard level algorithms**<br>
+
+It is easy to come out ideas to work on hard level algorithms. But it is hard to get most out of the practice. 
+
 June 26, 2018
 
 It is time for me to be ambitious. I have 3 simple drills to conquer the hard level algorithms. Here is the detail. 
